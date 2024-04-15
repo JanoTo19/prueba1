@@ -4,10 +4,13 @@ public class Main {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Hola mundo");
+		String nombre = "Jano";
+		
+		System.out.println("Hola " + nombre);
 		for (int i = 0; i < 10; i++) {
 			System.out.println("numero " + i);
 		}
+		
 		
 	}
 
