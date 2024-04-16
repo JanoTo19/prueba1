@@ -4,13 +4,11 @@ public class Main {
 	
 	public static void main(String[] args) {
 		
-		String nombre = "Jano Toral";
+		final int LONGITUD = 10;
 		
-		System.out.println("Hola " + nombre);
-		for (int i = 0; i < 10; i++) {
+		for (int i = 0; i < LONGITUD; i++) {
 			System.out.println(2 + " x " + (i+1) + " = " + (2*(i+1)));
 		}
-		
 		
 	}
 
