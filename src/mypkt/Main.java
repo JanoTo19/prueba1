@@ -3,7 +3,7 @@ package mypkt;
 public class Main {
 	
 	public static void main(String[] args) {
-		
+		System.out.println("hola mundo :) ");
 		final int LONGITUD = 10;
 		System.out.println("Tabla del 2:");
 		for (int i = 0; i < LONGITUD; i++) {
