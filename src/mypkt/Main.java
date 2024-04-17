@@ -7,7 +7,7 @@ public class Main {
 		final int LONGITUD = 10;
 		
 		for (int i = 0; i < LONGITUD; i++) {
-			System.out.println(2 + " x " + (i+1) + " = " + (2*(i+1)));
+			System.out.println("Tabla del 2:\n" + 2 + " x " + (i+1) + " = " + (2*(i+1)));
 		}
 		
 	}
