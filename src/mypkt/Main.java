@@ -9,7 +9,7 @@ public class Main {
 		for (int i = 0; i < LONGITUD; i++) {
 			System.out.println(2 + " x " + (i+1) + " = " + (2*(i+1)));
 		}
-		
+		System.out.println((2+2==4)?"Bien":"Mal");
 	}
 
 }
