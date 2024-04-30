@@ -10,6 +10,7 @@ public class Main {
 			System.out.println(2 + " x " + (i+1) + " = " + (2*(i+1)));
 		}
 		System.out.println((2+2==4)?"Bien":"Mal");
+		System.out.println("Hola");
 	}
 
 }
